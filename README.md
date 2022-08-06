@@ -1,2 +1,2 @@
-# avaya-cpaas-with-ale-omniswitch
-Unleash the power of Avaya CPaaS together with ALE OmniSwitch
+# Avaya OneCloud CPaaS with ALE OmniSwitch
+Unleash the power of Avaya OneCloud CPaaS together with ALE OmniSwitch
