@@ -3,7 +3,7 @@ Unleash the power of Avaya OneCloud CPaaS together with ALE OmniSwitch
 
 # Usage
 - Clone the repository
-- Edit the mysecrets_template.py and save it as mysecrets.py
+- Edit the **mysecrets_template.py** and save it as **mysecrets.py**
   - Adapt the **baseURL** (if needed for your region, refer to Avaya CPaaS documentation)
   - Add your **accountSID** (available from Avaya CPaaS Dashboard)
   - Add your **authToken** (available from Avaya CPaaS Dashbboard)
